@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 🔭 I’m currently working on [DOTD](www.dunksoftheday.com)
+- 🔭 I’m currently working on [Dunks Of The Day](www.dunksoftheday.com)
 
 - 📫 How to reach me **desean.dev@gmail.com**
 
