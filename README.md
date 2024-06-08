@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Dunks Of The Day](www.dunksoftheday.com)
 
-- 📫 How to reach me **desean.dev@gmail.com**
-
 <p align="left">
 </p>
 
